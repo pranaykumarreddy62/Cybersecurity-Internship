@@ -3,70 +3,70 @@
 ## Basic Commands
 
 ### pwd
-Current directory చూపిస్తుంది.
+Current directory
 
 ```bash
 pwd
 ```
 
 ### ls
-Files మరియు folders చూపిస్తుంది.
+Files మరియు folders 
 
 ```bash
 ls
 ```
 
 ### cd
-Folder change చేయడానికి.
+Folder change
 
 ```bash
 cd Documents
 ```
 
 ### mkdir
-కొత్త folder create చేస్తుంది.
+కొత్త folder create 
 
 ```bash
 mkdir test
 ```
 
 ### rmdir
-Folder delete చేస్తుంది.
+Folder delete 
 
 ```bash
 rmdir test
 ```
 
 ### touch
-కొత్త file create చేస్తుంది.
+కొత్త file create
 
 ```bash
 touch file.txt
 ```
 
 ### cat
-File content చూపిస్తుంది.
+File content 
 
 ```bash
 cat file.txt
 ```
 
 ### chmod
-File permissions మార్చడానికి.
+File permissions 
 
 ```bash
 chmod 777 file.txt
 ```
 
 ### ip a
-IP Address చూడడానికి.
+IP Address 
 
 ```bash
 ip a
 ```
 
 ### ping
-Network check చేయడానికి.
+Network check
 
 ```bash
 ping google.com
